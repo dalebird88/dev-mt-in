@@ -1,0 +1,26 @@
+
+/*footer*/
+
+footer p{
+  font-family: sans-serif;
+  font-weight: bold;
+  float: left;
+  letter-spacing: .05em;
+}
+
+#footnav{
+  width: 95vw;
+  height:10vh;
+  border-top: 2px solid;
+  color: #B6B6B6;
+}
+#p1{
+
+}
+#p2{
+text-decoration: underline;
+text-decoration-color: blue;
+}
+#p3{
+
+}
